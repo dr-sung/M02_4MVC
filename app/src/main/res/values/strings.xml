@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">M02_4MVC</string>
+    <string name="prev_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="person_info">Name: %1$s\nAge: %2$d</string>
+</resources>
